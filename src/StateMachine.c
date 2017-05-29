@@ -2,7 +2,7 @@
 
 #include "StateMachine.h"
 
-#include "Main.h"
+#include "main.h"
 #include "Led.h"
 
 
